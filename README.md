@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tomazi776
+- 👋 Hi, I’m Tom.
 - 👀 I’m interested in .NET tech stack, especially .NET Core and new .NET 6 
 - 🌱 I’m currently learning crypto related subjects
 - 💞️ I’m looking to collaborate on blockchain projects
