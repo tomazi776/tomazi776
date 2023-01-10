@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning crypto related subjects
 - 💞️ I’m looking to collaborate on blockchain projects
 - 📫 How to reach me -> tomaszurbaniak776@gmail.com
+- 💻 My website and portfolio -> www.toptom.me
 
 <!---
 tomazi776/tomazi776 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
